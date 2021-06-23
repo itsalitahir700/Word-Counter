@@ -1,3 +1,5 @@
+// type 'node index.js 10' in terminal where 10 is the limit of records
+
 `use-strict`;
 const fs = require("fs");
 const path = require("path");
